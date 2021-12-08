@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharko99
 - 👀 I’m interested in music, making video games and websites 🕹️
-- 🌱 I’m currently learning Piano 🎼
+- 🌱 I’m currently reading How to win friends and influence people
 - 💞️ I’m looking to collaborate on: idk 🤷‍♂️, just suggest :)
 - 📫 How to reach me, Sharko#1438
 
