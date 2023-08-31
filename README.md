@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @sharko99
-- 👀 I’m interested in music, making video games and websites 🕹️
-- 🌱 I’m currently reading How to win friends and influence people
-- 💞️ I’m looking to collaborate on: idk 🤷‍♂️, just suggest :)
-- 📫 How to reach me, Sharko#1438
-
-<!---
-sharko99/sharko99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! 👋 I'm a coder, gamer, and all-around tech enthusiast. I spend my days (and nights) working with web tech (HTML, PHP, JavaScript), and gaming engines (Unity and Unreal). Whether I'm whipping up scripts in C# and C++, or diving deep into game design, I'm all about turning cool ideas into even cooler realities. If you're into web dev, gaming, or just love nerding out about tech, let's chat!
